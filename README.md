@@ -2,13 +2,13 @@
 
 The goal of this project is to build a regression model that will train to understand the correlation between the numbers of experience and the salary
 
-## Problem
+## Description
 
 HR department of a company have gathered some data they have and wants to predict the salary of new employees. The .csv file illustrates the data. 
 
-## Solution
+## Output of the project
 
-We trained and tested our dataset with some regression models. And it shows that Simple Linear Regression is the best regressor to solve the problem with 97.4% R2 score. It means the model could predict very well for the HR department to make the salary predictions on the new employees based on their experience.
+We trained and tested our dataset with some regression models. And it shows that Simple Linear Regression is the best regressor to solve the problem with 97% R2 score. It means the model could predict very well for the HR department to make the salary predictions on the new employees based on their experience.
 
 The following graph shows the Salary vs Experience (Training Set)
 
